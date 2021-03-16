@@ -5,6 +5,9 @@ Purpose: learning opencv<br>
 main task : Facial Recognition and importing present students into excel sheet<br>
 I have used pycharm editor.<br>
 
+ <img src="https://github.com/HarshitDolu/Face-Recognition-Attendance-System/blob/main/Screenshot%20(386).png" width="900">
+
+
 First install C++ desktop developement service in VScode.<br>
 After installing above service, install cmake, dlib 19.18.0, opencv, numpy and face_recognition packages<br>
 
